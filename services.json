@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "House Cleaning",
+    "description": "Thorough cleaning of your entire house, including dusting, vacuuming, and mopping.",
+    "price": 100.0,
+    "category": "Home Services"
+  },
+  {
+    "id": "2",
+    "name": "Plumbing",
+    "description": "Fixing leaks, unclogging drains, and other plumbing repairs.",
+    "price": 70.0,
+    "category": "Home Services"
+  },
+  {
+    "id": "3",
+    "name": "Personal Training",
+    "description": "One-on-one personal training session to help you reach your fitness goals.",
+    "price": 50.0,
+    "category": "Health and Wellness"
+  },
+  {
+    "id": "4",
+    "name": "Haircut",
+    "description": "Professional haircut and styling.",
+    "price": 30.0,
+    "category": "Beauty Services"
+  },
+  {
+    "id": "5",
+    "name": "Car Wash",
+    "description": "Complete exterior and interior car wash.",
+    "price": 25.0,
+    "category": "Automotive Services"
+  },
+  {
+    "id": "6",
+    "name": "Legal Consultation",
+    "description": "Professional legal advice on various matters.",
+    "price": 150.0,
+    "category": "Professional Services"
+  },
+  {
+    "id": "7",
+    "name": "Tutoring",
+    "description": "One-on-one tutoring session in your subject of choice.",
+    "price": 40.0,
+    "category": "Educational Services"
+  },
+  {
+    "id": "8",
+    "name": "Event Planning",
+    "description": "Full-service event planning for your special occasions.",
+    "price": 500.0,
+    "category": "Event Services"
+  },
+  {
+    "id": "9",
+    "name": "Pet Grooming",
+    "description": "Professional grooming services for your pets.",
+    "price": 45.0,
+    "category": "Pet Services"
+  }
+]
