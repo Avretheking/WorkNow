@@ -70,12 +70,12 @@ We welcome contributions from everyone! To contribute, please follow these steps
 
 ## Team
 This project is developed by a dedicated team of six contributors:
-- **Your Name** - [Your GitHub Profile](https://github.com/yourprofile)
-- **Contributor 2 Name** - [Contributor 2 GitHub Profile](https://github.com/contributor2)
-- **Contributor 3 Name** - [Contributor 3 GitHub Profile](https://github.com/contributor3)
-- **Contributor 4 Name** - [Contributor 4 GitHub Profile](https://github.com/contributor4)
-- **Contributor 5 Name** - [Contributor 5 GitHub Profile](https://github.com/contributor5)
-- **Contributor 6 Name** - [Contributor 6 GitHub Profile](https://github.com/contributor6)
+- **Navneet Singh** - [Your GitHub Profile](https://github.com/yourprofile)
+- **Nitish Singh** - [https://github.com/Nitish315](https://github.com/contributor2)
+- **Jasmine** - [Contributor 3 GitHub Profile](https://github.com/contributor3)
+- **Itisha Rana** - [Contributor 4 GitHub Profile](https://github.com/contributor4)
+- **Kanishika** - [Contributor 5 GitHub Profile](https://github.com/contributor5)
+- **Jyoti** - [Contributor 6 GitHub Profile](https://github.com/contributor6)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For questions or feedback, please reach out to:
 - **Navneet Singh** - [mailto:navneetsohal80@gmail.com]
-
+- **Nitish Singh** - [mailto:ns6589442@gmail.com]
 ---
 
 Thank you for checking out WorkNow! We hope it helps you connect with the services you need.
